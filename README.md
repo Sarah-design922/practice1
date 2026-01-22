@@ -1,2 +1,4 @@
 # practice1
-this repo contains phyton codes
+this repo consists of phyton codes
+
+let's use responsibly
